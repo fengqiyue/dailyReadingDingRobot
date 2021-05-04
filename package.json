@@ -1,0 +1,16 @@
+{
+  "name": "daily_reading",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Cheri",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.6",
+    "got": "^11.8.2",
+    "htmlparser2": "^6.1.0",
+    "node-schedule": "^2.0.0"
+  }
+}
